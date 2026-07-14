@@ -1,0 +1,6 @@
+{
+  "name": "Shahmeer Shop",
+  "description": "A premium enterprise grocery shopping platform with offline capability, persistent shopping cart, WhatsApp order generation, and a secure hidden admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
